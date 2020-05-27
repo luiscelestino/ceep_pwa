@@ -1,0 +1,15 @@
+{
+    "name": "Ceep",
+    "short_name": "Ceep",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "icons": [
+        {
+            "src": "img/cards.png",
+            "sizes": "225x225",
+            "type": "image/png"
+        }
+    ]
+}
